@@ -1,9 +1,9 @@
-# Template
+# Superglobals
 
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/ghostwriter?label=Sponsor+@ghostwriter/template&logo=GitHub+Sponsors)](https://github.com/sponsors/ghostwriter)
-[![Automation](https://github.com/ghostwriter/template/actions/workflows/automation.yml/badge.svg)](https://github.com/ghostwriter/template/actions/workflows/automation.yml)
-[![Supported PHP Version](https://badgen.net/packagist/php/ghostwriter/template?color=8892bf)](https://www.php.net/supported-versions)
-[![Downloads](https://badgen.net/packagist/dt/ghostwriter/template?color=blue)](https://packagist.org/packages/ghostwriter/template)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/ghostwriter?label=Sponsor+@ghostwriter/superglobals&logo=GitHub+Sponsors)](https://github.com/sponsors/ghostwriter)
+[![Automation](https://github.com/ghostwriter/superglobals/actions/workflows/automation.yml/badge.svg)](https://github.com/ghostwriter/superglobals/actions/workflows/automation.yml)
+[![Supported PHP Version](https://badgen.net/packagist/php/ghostwriter/superglobals?color=8892bf)](https://www.php.net/supported-versions)
+[![Downloads](https://badgen.net/packagist/dt/ghostwriter/superglobals?color=blue)](https://packagist.org/packages/ghostwriter/superglobals)
 
 work in progress
 
