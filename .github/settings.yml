@@ -3,7 +3,6 @@
   "description": "[WIP] Immutable, type-safe value objects for accessing PHP superglobals ($_GET, $_POST, $_SERVER, $_ENV, etc.)"
   "homepage": "https://github.com/ghostwriter/superglobals"
   "topics": "ghostwriter, superglobals, wip"
-  "private": false
   "has_issues": true
   "has_projects": false
   "has_wiki": false
