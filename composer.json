@@ -46,7 +46,7 @@
         "ghostwriter/json": "^3.0.1",
         "ghostwriter/option": "^2.0.0",
         "ghostwriter/result": "^2.0.0",
-        "ghostwriter/shell": "^0.1.1",
+        "ghostwriter/shell": "^0.1.4",
         "ghostwriter/uuid": "^1.0.3"
     },
     "require-dev": {
@@ -54,7 +54,7 @@
         "ghostwriter/coding-standard": "dev-main",
         "mockery/mockery": "^1.6.12",
         "phpunit/phpunit": "^12.5.7",
-        "symfony/var-dumper": "^8.0.3"
+        "symfony/var-dumper": "^8.0.4"
     },
     "prefer-stable": true,
     "autoload": {
